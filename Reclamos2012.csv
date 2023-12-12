@@ -1,0 +1,47 @@
+﻿_id,Fecha,Genero,Casino,MATERIA,SUBMATERIA,Juego Involucrado
+1,,,,,,
+2,Fecha,Genero,Casino,MATERIA,SUBMATERIA,Juego Involucrado
+3,enero,masculino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+4,enero,masculino,Casino Marina del Sol (Talcahuano),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+5,enero,masculino,Casino Rinconada (Rinconada),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+6,enero,masculino,Monticello Grand Casino (Mostazal),01 Casino de Juego,0103  Requisitos de entrada,No aplica
+7,enero,Femenino,Casino Rinconada (Rinconada),02 Funcionarios del casino,0202 Propinas,No aplica
+8,febrero,Femenino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+9,febrero,Masculino,Casino Sol (Calama),03 Juegos de Azar,0308 Pago de premios mesas de juego,Craps
+10,febrero,Femenino,Casino Enjoy Antofagasta (Antofagasta),01 Casino de Juego,0199 Otras,No aplica
+11,febrero,masculino,Casino Rinconada (Rinconada),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+12,marzo,Femenino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+13,marzo,masculino,Casino Gran Los Angeles,03 Juegos de Azar,0308 Pago de premios mesas de juego,Ruleta Americana con doble cero
+14,marzo,Femenino,Casino Rinconada (Rinconada),01 Casino de Juego,0104 Prohibiciones legales de acceso al casino de juegos,No aplica
+15,marzo,Femenino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+16,abril,Femenino,Casino Enjoy Antofagasta (Antofagasta),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+17,abril,Femenino,Casino Rinconada (Rinconada),02 Funcionarios del casino,0202 Propinas,No aplica
+18,mayo,masculino,Dreams Temuco (Temuco),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+19,mayo,masculino,Antay Casino & Hotel (Copiapó),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+20,junio,Femenino,Casino Enjoy Antofagasta (Antofagasta),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+21,junio,Femenino,Casino Rinconada (Rinconada),03 Juegos de Azar,0308 Pago de premios mesas de juego,Ruleta Americana con un cero
+22,junio,Masculino,Casino de Juegos del Pacífico (San Antonio),03 Juegos de Azar,0301 Aplicación de las reglas del catálogo de juegos,Black Jack
+23,junio,Masculino,Casino Rinconada (Rinconada),03 Juegos de Azar,0301 Aplicación de las reglas del catálogo de juegos,Black Jack
+24,julio,Masculino,Casino Rinconada (Rinconada),03 Juegos de Azar,0399 Otras,Máquinas de Azar
+25,julio,masculino,Casino Sol (Osorno),01 Casino de Juego,0104 Prohibiciones legales de acceso al casino de juegos,No aplica
+26,julio,Femenino,Casino Sol (Osorno),01 Casino de Juego,0104 Prohibiciones legales de acceso al casino de juegos,No aplica
+27,agosto,masculino,Casino Rinconada (Rinconada),01 Casino de Juego,0199 Otras,No aplica
+28,agosto,Masculino,Casino de Juegos del Pacífico (San Antonio),03 Juegos de Azar,0301 Aplicación de las reglas del catálogo de juegos,Black Jack
+29,agosto,masculino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0304 Materiales del juego,Ruleta Francesa
+30,agosto,masculino,Casino Enjoy Antofagasta (Antofagasta),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+31,agosto,masculino,Casino Marina del Sol (Talcahuano),03 Juegos de Azar,0301 Aplicación de las reglas del catálogo de juegos,Texas Holdem Poker
+32,agosto,masculino,Dreams Temuco (Temuco),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+33,agosto,Femenino,Casino Rinconada (Rinconada),02 Funcionarios del casino,0202 Propinas,No aplica
+34,agosto,masculino,Casino Marina del Sol (Talcahuano),03 Juegos de Azar,0309 Torneos de juego,Texas Holdem Poker
+35,agosto,Masculino,Gran Casino de Talca (Talca),03 Juegos de Azar,0301 Aplicación de las reglas del catálogo de juegos,Black Jack
+36,septiembre,Masculino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0301 Aplicación de las reglas del catálogo de juegos,Punto y Banca
+37,septiembre,Masculino,Gran Casino de Talca (Talca),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+38,octubre,Femenino,Casino Rinconada (Rinconada),01 Casino de Juego,0199 Otras,No aplica
+39,octubre,Masculino,Casino Rinconada (Rinconada),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+40,octubre,Masculino,Dreams Temuco (Temuco),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+41,octubre,Femenino,Dreams Valdivia (Valdivia),03 Juegos de Azar,0307 Conflictos otros jugadores,Máquinas de Azar
+42,octubre,masculino,Monticello Grand Casino (Mostazal),03 Juegos de Azar,0310 Porcentaje de retorno máquinas de azar,Máquinas de Azar
+43,noviembre,masculino,Casino Marina del Sol (Talcahuano),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+44,noviembre,masculino,Casino Rinconada (Rinconada),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+45,diciembre,masculino,Casino Marina del Sol (Talcahuano),03 Juegos de Azar,0303 Pago de premios y funcionamiento maquinas de azar,Máquinas de Azar
+46,diciembre,Masculino,Monticello Grand Casino (Mostazal),01 Casino de Juego,0107 Calidad de Servicio (excluye personal de juego),No aplica
